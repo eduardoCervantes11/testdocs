@@ -1,2 +1,0 @@
-# testdocs
-sphinxtest
